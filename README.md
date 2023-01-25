@@ -7,16 +7,17 @@ The following Python packages are required to run the code in this project:
 1. NumPy
 2. Pandas
 3. Matplotlib
-4. SciPy
+4. get_all_tickers
 5. yFinance
+6. seaborn
 
 # Usage
 The project contains a single script, mpt.py, which can be run from the command line. The script uses sample data from several publicly traded companies to calculate and plot the efficient frontier.
 
 To run the script, navigate to the project directory in the command line and enter the following command:
 
-! Copy code
-! python mpt.py
+Copy code
+python mpt.py
 
 This will execute the script and display the efficient frontier plot.
 
