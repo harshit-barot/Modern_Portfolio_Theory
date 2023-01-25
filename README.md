@@ -4,11 +4,11 @@ This project is an implementation of Modern Portfolio Theory (MPT) using Python.
 # Requirements
 The following Python packages are required to run the code in this project:
 
-# NumPy
-# Pandas
-# Matplotlib
-# SciPy
-# yFinance
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. SciPy
+5. yFinance
 
 # Usage
 The project contains a single script, mpt.py, which can be run from the command line. The script uses sample data from several publicly traded companies to calculate and plot the efficient frontier.
